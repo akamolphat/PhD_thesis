@@ -1,4 +1,4 @@
-# chapter_2
+# chapter_5
 
 This folder contains supplementary materials of chapter 5 of the PhD thesis that are not included in the thesis itself.
 
