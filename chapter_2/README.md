@@ -2,7 +2,7 @@
 
 This folder contains supplementary materials of chapter 2 of the PhD thesis that are not included in the thesis itself.
 
-`TableA1.2.xlsx` corresponds to Table A1.2 mentioned in the Appendix A of the PhD thesis. It corresponds to TableS1.2v2.csv found in the corresponding [dryad repository](https://doi.org/10.5061/dryad.xsj3tx9m7)
+`TableA1.2.xlsx` corresponds to Table A1.2 mentioned in Appendix A of the PhD thesis. It corresponds to TableS1.2v2.csv found in the corresponding [dryad repository](https://doi.org/10.5061/dryad.xsj3tx9m7).
 
 As mentioned in the **Data availabilty** section within chapter 2 of the thesis, the codes are available at: [https://github.com/akamolphat/myna_popgen]. This github repository is the one used for the published article (Atsawawaranunt et al., 2023), and therefore the details in the repository refer to the Figures and Tables in the published article, which differs from the PhD thesis as follows:
 
